@@ -1,8 +1,6 @@
 Self Introduction
 
-(Draft — Approximately 4+ pages worth of detailed content)
-
-Page 1: Personal Background
+Personal Background
 
 My name is Swetha Sivanandan, and I am currently an 18-year-old student pursuing my first year of college. I am at a stage in life where I am beginning to explore my identity, passions, strengths, and goals more deeply. This period is filled with curiosity and enthusiasm, and I constantly strive to learn new things, develop meaningful skills, and discover my future path.
 
@@ -10,7 +8,7 @@ Growing up, I have always been a person who enjoys observing, learning, and crea
 
 I come from a supportive environment that encourages me to express myself and work toward my goals. This has helped shape my confidence and given me the motivation to develop my strengths. At the same time, I am fully aware that there is always room to grow, and I embrace challenges as opportunities to improve.
 
-Page 2: Academic Life and Interests
+Academic Life and Interests
 
 As a first-year college student, I am adjusting to a new academic environment filled with responsibilities, expectations, and opportunities. I am eager to strengthen my communication skills—especially spoken English and public speaking—since I believe these are essential for personal and professional growth. Improving my speaking ability is one of my top goals, and I am putting in consistent effort to practice, engage in conversations, and build confidence.
 
@@ -18,7 +16,7 @@ Apart from academics, one of my strongest interests is video gaming. Gaming isn�
 
 Another important aspect of my life is yoga. It keeps me balanced, focused, and mentally clear. Practicing yoga has helped me understand the importance of discipline and consistency. It also improves my physical strength, flexibility, and emotional stability. Yoga is something I genuinely value and wish to continue throughout my life.
 
-Page 3: Strengths, Weaknesses, and Personality
+Strengths, Weaknesses, and Personality
 
 One of my key strengths is my ability to learn quickly. When I focus on something, I give it my full attention and absorb concepts easily. This helps me adapt to new environments, technologies, and ideas. My creativity, especially in editing and gaming, is another asset. I enjoy experimenting, thinking outside the box, and trying new styles.
 
